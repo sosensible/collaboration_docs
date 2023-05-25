@@ -4,7 +4,7 @@
 
 ## Architecture
 
-- Git Submodules
+- Git Submodules (practical use)
 - Router via `capp.ts`
 - Nested in `/src/apps/`
 - Integrates with all standard Collaboration resources
